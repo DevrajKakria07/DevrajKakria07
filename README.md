@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevrajKakria07
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Mobile Development and Data Science
 - 🌱 I’m currently studying for a Master of Science in Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me please connect at Instagram @devrajkakria
